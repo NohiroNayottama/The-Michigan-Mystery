@@ -1,4 +1,5 @@
 # The Michigan Mystery Walkthrough
+## Prologue
 ```
 Sanaya Patel, an agent for the S.I.S.U. had been working tirelessly and finally decided to take a much-needed vacation. She decided she would spend it in a small town in Michigan, hoping to relax and unwind.
 
