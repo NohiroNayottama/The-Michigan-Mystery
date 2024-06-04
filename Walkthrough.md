@@ -25,79 +25,40 @@ As always, Special Agent K. The Contract is yours, if you choose to accept.
 
 ### Method
 
-First, we need to do Reverse Image Search (RIS), I'm using Google Lens.
+First, we need to do Reverse Image Search (RIS), I'm using Google Lens. you can use any tools too.
 ![RIS](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor.jpg)
 As we can see, there is some identical image, but we gonna check on Instagram one, because it may have the an account that lead us to the source.
 
-### Instagram
+### Instagram Checking
 
 We may not see it on the first slide, swipe the slide until you can see the identical image that we looking for.
-####The first slide.
+###The first slide.
 ![randomig](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor2.PNG)
 
-####The right slide.
+###The right slide.
 ![randomig2](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor3.jpg)
 
 Now we see the image, and we can compare it to the material. As you can see it is the exact place that we looking for. The bridge, stones, tree and the small house as i say.
+We found an account that sounds like a Hotel place.
+@gleneyriecastle
 
+###Hotel
+![Hotel](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor4.PNG)
+It is a Hotel place and it's located in Colorado Springs Colorado State.
 
+Now we check it on Google Map
 
-```
-until finished
-```
+###Google Map
+![GoogleMap](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor5.jpg)
 
-End with an example of getting some data out of the system or using it for a little demo
+It is the same place like the material we've been given. Now we know it is located in Glen Eyrie Castle.
 
-## Running the tests
+###Answer Instruction
+Answer Example: bob_weary_home
+### Answer
+glen_eyrie_castle
 
-Explain how to run the automated tests for this system
+Thanks to Hacktoria for the fun game, and thanks to you guys.
+Have a nice hunting!
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Regards, Nohiro.
