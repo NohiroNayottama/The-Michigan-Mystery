@@ -22,10 +22,9 @@ As always, Special Agent K. The Contract is yours, if you choose to accept.
 
 ![Material](https://raw.githubusercontent.com/NohiroNayottama/The-Michigan-Mystery/main/location-edited%20(1).webp)
 
-### Prerequisites
+### Method
 
-What things you need to install the software and how to install them
-
+First, we need to do Reverse Image Search (RIS), I'm using Google Lens.
 ```
 Give examples
 ```
