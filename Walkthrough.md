@@ -1,5 +1,5 @@
 # The Michigan Mystery Walkthrough
-
+```
 Sanaya Patel, an agent for the S.I.S.U. had been working tirelessly and finally decided to take a much-needed vacation. She decided she would spend it in a small town in Michigan, hoping to relax and unwind.
 
 One evening, while exploring the town, she met a man named Thomas Griswold. They hit it off immediately and spent the next few days together, enjoying each other’s company, having a great time. Sanaya felt like she had finally found someone who understood her.
@@ -17,7 +17,7 @@ It didn’t take long for Jonathan to be apprehended, and in questioning he said
 Sanaya may still be in shock and we need to help. The image below was all the data contained on the data the USB. Help us find the little girl and bring her back to her father.
 
 As always, Special Agent K. The Contract is yours, if you choose to accept.
-
+```
 ## Materials
 
 ![Material](https://raw.githubusercontent.com/NohiroNayottama/The-Michigan-Mystery/main/location-edited%20(1).webp)
@@ -25,21 +25,20 @@ As always, Special Agent K. The Contract is yours, if you choose to accept.
 ### Method
 
 First, we need to do Reverse Image Search (RIS), I'm using Google Lens.
-```
-Give examples
-```
+![RIS](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor.jpg)
+As we can see, there is some identical image, but we gonna check on Instagram one, because it may have the an account that lead us to the source.
 
-### Installing
+### Instagram
 
-A step by step series of examples that tell you how to get a development env running
+We may not see it on the first slide, swipe the slide until you can see the identical image that we looking for.
+The first slide.
+![randomig](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor2.PNG)
 
-Say what the step will be
+The fourth slide.
+![randomig2](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor3.jpg)
 
-```
-Give the example
-```
+Now we see the image, and we can compare it to the material. As you can see it is the exact place that we looking for. the bridge, stones, tree and the small house as i say.
 
-And repeat
 
 ```
 until finished
