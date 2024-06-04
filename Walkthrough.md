@@ -20,7 +20,7 @@ As always, Special Agent K. The Contract is yours, if you choose to accept.
 
 ## Materials
 
-(https://raw.githubusercontent.com/NohiroNayottama/The-Michigan-Mystery/main/location-edited%20(1).webp)
+![Material](https://raw.githubusercontent.com/NohiroNayottama/The-Michigan-Mystery/main/location-edited%20(1).webp)
 
 ### Prerequisites
 
