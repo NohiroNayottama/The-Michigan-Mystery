@@ -1,4 +1,5 @@
 # The Michigan Mystery Walkthrough
+![thumbnail](https://i0.wp.com/hacktoria.com/wp-content/uploads/2024/05/Cover-The-Michigan-Mystery.jpg?w=1280&ssl=1)
 ## Prologue
 ```
 Sanaya Patel, an agent for the S.I.S.U. had been working tirelessly and finally decided to take a much-needed vacation. She decided she would spend it in a small town in Michigan, hoping to relax and unwind.
