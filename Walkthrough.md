@@ -32,13 +32,14 @@ As we can see, there is some identical image, but we gonna check on Instagram on
 ### Instagram
 
 We may not see it on the first slide, swipe the slide until you can see the identical image that we looking for.
-The first slide.
+####The first slide.
 ![randomig](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor2.PNG)
 
-The fourth slide.
+####The right slide.
 ![randomig2](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor3.jpg)
 
-Now we see the image, and we can compare it to the material. As you can see it is the exact place that we looking for. the bridge, stones, tree and the small house as i say.
+Now we see the image, and we can compare it to the material. As you can see it is the exact place that we looking for. The bridge, stones, tree and the small house as i say.
+
 
 
 ```
