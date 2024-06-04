@@ -52,14 +52,14 @@ Now we check it on Google Map
 ## Google Map
 ![GoogleMap](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor5.jpg)
 
-It is the same place like the material we've been given. Now we know it is located in Glen Eyrie Castle.
+It is the same place like the material we've been given. Now we know it is located in *Glen Eyrie Castle.*
 
 ## #Answer Instruction
-### Answer Example: bob_weary_home
+*Answer Example: bob_weary_home*
 ## Answer
-### glen_eyrie_castle
+### *glen_eyrie_castle*
 
 Thanks to Hacktoria for the fun game, and thanks to you guys.
-Have a nice hunting!
+Have a nice hunting game!
 
 Regards, *Nohiro.*
