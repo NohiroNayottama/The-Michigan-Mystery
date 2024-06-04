@@ -54,10 +54,10 @@ Now we check it on Google Map
 
 It is the same place like the material we've been given. Now we know it is located in Glen Eyrie Castle.
 
-### #Answer Instruction
+## #Answer Instruction
 ### Answer Example: bob_weary_home
-### Answer
-## glen_eyrie_castle*
+## Answer
+### glen_eyrie_castle
 
 Thanks to Hacktoria for the fun game, and thanks to you guys.
 Have a nice hunting!
