@@ -36,28 +36,28 @@ We may not see it on the first slide, swipe the slide until you can see the iden
 ###The first slide.
 ![randomig](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor2.PNG)
 
-*The right slide.*
+### The right slide.
 ![randomig2](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor3.jpg)
 
 Now we see the image, and we can compare it to the material. As you can see it is the exact place that we looking for. The bridge, stones, tree and the small house as i say.
 We found an account that sounds like a Hotel place.
 @gleneyriecastle
 
-*Hotel*
+### Hotel
 ![Hotel](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor4.PNG)
 It is a Hotel place and it's located in Colorado Springs Colorado State.
 
 Now we check it on Google Map
 
-*Google Map*
+### Google Map
 ![GoogleMap](https://github.com/NohiroNayottama/The-Michigan-Mystery/blob/main/tutor5.jpg)
 
 It is the same place like the material we've been given. Now we know it is located in Glen Eyrie Castle.
 
-*#Answer Instruction*
-Answer Example: bob_weary_home
-*Answer*
-*glen_eyrie_castle*
+### #Answer Instruction
+### Answer Example: bob_weary_home
+### Answer
+## glen_eyrie_castle*
 
 Thanks to Hacktoria for the fun game, and thanks to you guys.
 Have a nice hunting!
